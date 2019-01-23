@@ -1,0 +1,1 @@
+print('testing programs in datatype')

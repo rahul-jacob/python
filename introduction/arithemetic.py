@@ -1,0 +1,6 @@
+x = int(input('Enter the first number '))
+y = int(input('Enter the second number '))
+print('the sum of ',x,' and ',y,' is ',x+y)
+print('the difference of ',x,' and ',y,' is ',x-y)
+print('the product of ',x,' and ',y,' is ',x*y)
+print('the quotient of ',x,' and ',y,' is ',x/y)
